@@ -31,7 +31,7 @@ Motherson and HDFC had consistently high volumes, indicating strong liquidity.
 
 🔁 Correlation Analysis :
 TCS and Motherson are highly correlated 0.89, meaning they tend to move together.
-HDFC is less correlated with others — good for portfolio diversification.
+HDFC is less correlated with others good for portfolio diversification.
 
 
 
