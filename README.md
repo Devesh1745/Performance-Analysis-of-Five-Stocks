@@ -1,5 +1,5 @@
 # Performance-Analysis-of-Five-Stocks
-📘 # Overview
+# Overview
 
 This project focuses on performing a detailed analysis of five Indian stocks — Titagarh, TCS, Motherson, CDSL, and HDFC — using historical market data from January 2022 to March 2025. Leveraging Python libraries like yfinance, pandas, numpy, matplotlib, and seaborn, the notebook extracts and analyzes daily stock prices, returns, volumes, and other performance metrics. The goal is to uncover patterns in stock behavior across different weekdays and months, assess risk versus return tradeoffs, and identify inter-stock correlations. The analysis is designed to support data-driven investment decisions by highlighting periods of strong performance, volatility, and optimal portfolio diversification opportunities. Through visualizations and metrics, this project translates raw data into actionable financial insights.
 
