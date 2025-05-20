@@ -8,7 +8,7 @@ Stock analysis involves comparing a company's current financial statement to its
 <img src="Image/Yahoo!_Finance_logo_2021.png" alt="logo" width="400" height="200"/>
 
 
-# Overview
+# 📊 Overview
 Collecting historical stock price data of various companies from trusted sources such as Yahoo Finance.
 
 This project focuses on performing a detailed analysis of five Indian stocks — Titagarh, TCS, Motherson, CDSL, and HDFC — using historical market data from January 2022 to March 2025. Leveraging Python libraries like yfinance, pandas, numpy, matplotlib, and seaborn, the notebook extracts and analyzes daily stock prices, returns, volumes, and other performance metrics. The goal is to uncover patterns in stock behavior across different weekdays and months, assess risk versus return tradeoffs, and identify inter-stock correlations.
