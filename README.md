@@ -4,7 +4,8 @@ Stock analysis involves comparing a company's current financial statement to its
 
 <img src="6240060.jpg" width=1000>
 
-## Download market data from Yahoo! Finance's API
+## Collecting market data from Yahoo! Finance's API
+
 
 # Overview
 Collecting historical stock price data of various companies from trusted sources such as Yahoo Finance.
