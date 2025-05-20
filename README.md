@@ -1,10 +1,10 @@
-# Performance-Analysis-of-Five-Stocks
+# 📊 Performance-Analysis-of-Five-Stocks 🔎
 Stock analysis involves comparing a company's current financial statement to its financial statements in previous years to give an investor a sense of whether the company is growing, stable, or deteriorating
 
 
 <img src="Image/6240060.jpg" width=1000>
 
-## Collecting market data from Yahoo! Finance's API
+##🗃 Collecting market data from Yahoo! Finance's API
 <img src="Image/Yahoo!_Finance_logo_2021.png" alt="logo" width="400" height="200"/>
 
 
@@ -18,7 +18,7 @@ The analysis is designed to support data-driven investment decisions by highligh
 ### 🗂 Data Preparation and Cleaning: 
 The initial phase involved downloading historical stock data, combining it into a unified dataset, and performing crucial data cleaning steps. This included removing erroneous header rows, renaming columns for clarity (e.g., 'Price' to 'Date'), reordering columns, and converting data types to ensure accurate numerical calculations (e.g., 'Close', 'High', 'Low', 'Open' to float, 'Volume' to integer, and 'Date' to datetime objects).
 
-### Feature Engineering:
+###🔗 Feature Engineering:
 New features like 'Month', 'weekdays', and 'Daily return' (calculated as the percentage change in the 'Close' price) were added to enrich the dataset and enable more granular analysis of trends and performance.
 
 
@@ -49,8 +49,8 @@ HDFC is less correlated with others good for portfolio diversification.
 
 
 # 💡 Recommendations
-1. Aggressive investors may consider Titagarh for its high returns, especially when timed around favorable months June, April.
-2. Risk-averse investors could favor HDFC or Motherson for stability and liquidity.
-3. Avoid high exposure during February and cautiously approach Mondays due to observed underperformance.
-4. For portfolio balancing, include less correlated stocks like HDFC to minimize total risk.
-5. Monitor correlated pairs (like TCS & Motherson) for paired trades or risk management.
+✔️1. Aggressive investors may consider Titagarh for its high returns, especially when timed around favorable months June, April.
+✔️2. Risk-averse investors could favor HDFC or Motherson for stability and liquidity.
+✔️3. Avoid high exposure during February and cautiously approach Mondays due to observed underperformance.
+✔️4. For portfolio balancing, include less correlated stocks like HDFC to minimize total risk.
+✔️5. Monitor correlated pairs (like TCS & Motherson) for paired trades or risk management.
