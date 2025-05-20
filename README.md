@@ -4,7 +4,7 @@ Stock analysis involves comparing a company's current financial statement to its
 
 <img src="Image/6240060.jpg" width=1000>
 
-##🗃 Collecting market data from Yahoo! Finance's API
+## 🗃 Collecting market data from Yahoo! Finance's API
 <img src="Image/Yahoo!_Finance_logo_2021.png" alt="logo" width="400" height="200"/>
 
 
