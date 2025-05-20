@@ -13,23 +13,23 @@ The analysis is designed to support data-driven investment decisions by highligh
 
 
 # Insights
-🧪 General Stock Behavior
+🧪 Stock Behavior :
 Titagarh shows the highest expected daily return but also carries the highest risk (volatility).
 HDFC and Motherson appear to be more stable but offer lower returns ideal for conservative investors.
 
-📅 Weekday Performance
+📅 Weekday Performance :
 Friday yields the highest average returns overall, particularly for Titagarh.
 Monday tends to be more volatile and underperforming a potential "risk day" for investing.
 
-📆 Monthly Seasonality
+📆 Monthly Seasonality :
 Strongest returns were observed in June, April, and November.
 February shows significant negative returns potentially a good time to avoid new entries.
 
-📈 Volume vs. Return Trends
+📈 Volume vs. Return Trends :
 High trading volumes don’t always translate to high returns.
 Motherson and HDFC had consistently high volumes, indicating strong liquidity.
 
-🔁 Correlation Analysis
+🔁 Correlation Analysis :
 TCS and Motherson are highly correlated 0.89, meaning they tend to move together.
 HDFC is less correlated with others — good for portfolio diversification.
 
