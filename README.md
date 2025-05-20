@@ -1,4 +1,4 @@
-✅# Performance-Analysis-of-Five-Stocks
+# Performance-Analysis-of-Five-Stocks
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-# Recommendations
+#✅ Recommendations
 1. Aggressive investors may consider Titagarh for its high returns, especially when timed around favorable months June, April.
 2. Risk-averse investors could favor HDFC or Motherson for stability and liquidity.
 3. Avoid high exposure during February and cautiously approach Mondays due to observed underperformance.
