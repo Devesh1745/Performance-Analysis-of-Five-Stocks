@@ -22,7 +22,7 @@ The initial phase involved downloading historical stock data, combining it into 
 New features like 'Month', 'weekdays', and 'Daily return' (calculated as the percentage change in the 'Close' price) were added to enrich the dataset and enable more granular analysis of trends and performance.
 
 
-# Insights
+# 📌Insights
 🧪 Stock Behavior :
 Titagarh shows the highest expected daily return but also carries the highest risk (volatility).
 HDFC and Motherson appear to be more stable but offer lower returns ideal for conservative investors.
@@ -48,7 +48,7 @@ HDFC is less correlated with others good for portfolio diversification.
 
 
 
-# Recommendations
+# 💡Recommendations
 1. Aggressive investors may consider Titagarh for its high returns, especially when timed around favorable months June, April.
 2. Risk-averse investors could favor HDFC or Motherson for stability and liquidity.
 3. Avoid high exposure during February and cautiously approach Mondays due to observed underperformance.
