@@ -18,7 +18,7 @@ The analysis is designed to support data-driven investment decisions by highligh
 ### 🗂 Data Preparation and Cleaning: 
 The initial phase involved downloading historical stock data, combining it into a unified dataset, and performing crucial data cleaning steps. This included removing erroneous header rows, renaming columns for clarity (e.g., 'Price' to 'Date'), reordering columns, and converting data types to ensure accurate numerical calculations (e.g., Close, High, Low, Open to float, Volume to integer, and Date to datetime objects).
 
-###🔗 Feature Engineering:
+### 🔗 Feature Engineering:
 New features like 'Month', 'weekdays', and 'Daily return' (calculated as the percentage change in the 'Close' price) were added to enrich the dataset and enable more granular analysis of trends and performance.
 
 
