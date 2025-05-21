@@ -9,7 +9,7 @@ Stock analysis involves comparing a company's current financial statement to its
 
 ## Analysis File Link
 
-[Performance-Analysis-of-Five-Stocks]([https://github.com/Devesh1745/Performance-Analysis-of-Five-Stocks])
+[Performance-Analysis-of-Five-Stocks](https://github.com/Devesh1745/Performance-Analysis-of-Five-Stocks)
 
 # 📊 Overview
 Collecting historical stock price data of various companies from trusted sources such as Yahoo Finance.
