@@ -1,5 +1,5 @@
 # 📊 Performance-Analysis-of-Five-Stocks 🔎
-Stock analysis involves comparing a company's current financial statement to its financial statements in previous years to give an investor a sense of whether the company is growing, stable, or deteriorating
+Stock analysis involves comparing a company's current financial statement to its financial statements in previous years to give an investor a sense of whether the company is growing, stable.
 
 
 <img src="Image/6240060.jpg" width=1000>
